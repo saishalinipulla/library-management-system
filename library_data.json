@@ -1,0 +1,16 @@
+{
+  "books": {
+    "85": {
+      "title": "life of me",
+      "author": "shalu",
+      "total_copies": 70,
+      "available_copies": 70
+    }
+  },
+  "members": {
+    "23170-cm-041": {
+      "name": "shalini",
+      "borrowed": {}
+    }
+  }
+}
